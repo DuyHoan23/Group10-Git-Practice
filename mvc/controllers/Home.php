@@ -23,5 +23,11 @@ class Home extends Controller{
             //"SV" => $nhanVienmodel->SinhVien()
         ]);
     }
+
+    function tranngoc(){
+        $tranngoc = 123;
+        return $tranngoc;
+        echo"test fetch";
+    }
 }
 ?>
