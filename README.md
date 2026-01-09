@@ -1,27 +1,64 @@
-# HƯỚNG DẪN SET UP PROJECT PHP THEO MÔ HÌNH MVC
+# Collaborative Git Workflow Practice
 
-Hướng dẫn từng bước set up một project PHP theo mô hình MVC.
-Bạn có thể sử dụng source này để tiết kiệm thời gian set up cho project của mình.
+This repository is used by team members to **practice and simulate real-world Git collaboration workflows**.
 
-* Buổi 1: Giới thiệu mô hình MVC
-https://www.youtube.com/watch?v=CasgqSBvOMY
+The goal of this project is not to build a specific application, but to improve team skills in:
+- Version control
+- Collaboration
+- Code review
+- Conflict resolution
 
-* Buổi 2: Controllers
-https://www.youtube.com/watch?v=JJ97y6OviRk
+---
 
-* Buổi 3: Models
-https://www.youtube.com/watch?v=VCn6yu6eaFs
+## Objectives
 
-* Buổi 4: Views
-https://www.youtube.com/watch?v=5JOgsWOS-CM
+- Practice Git branching strategies
+- Work with Pull Requests
+- Review teammates' code
+- Resolve merge conflicts
+- Maintain clean commit history
+- Follow a collaborative development process
 
-* Buổi 5: Kết nối Database
-https://www.youtube.com/watch?v=guCJ0o2rUZ8
+---
 
-* Buổi 6: Các vấn đề khác (Ajax, Route...)
-https://www.youtube.com/watch?v=TutBjMexFE4
+## What We Practice
 
-- Khóa học lập trình PHP tại Khoa Phạm: https://khoapham.vn/lap-trinh-php.html
-- Group học lập trình: https://www.facebook.com/groups/khoaphamonline
-- Website học lập trình online: http://online.khoapham.vn
+- Creating and managing branches
+- Making meaningful commits
+- Opening and reviewing Pull Requests
+- Handling merge conflicts
+- Collaborating in a multi-developer environment
+- Following Git best practices
+
+---
+
+## Workflow
+
+1. Create a new branch from `main`
+2. Make changes and commit with clear messages
+3. Push the branch to remote
+4. Open a Pull Request
+5. Review and approve changes
+6. Merge into `main`
+
+---
+
+## Rules
+
+- Do not commit directly to `main`
+- Use clear and descriptive commit messages
+- Keep Pull Requests small and focused
+- Respect code reviews and feedback
+
+---
+
+## Team Collaboration
+
+This repository is a **team-based practice environment**, designed to reflect how software development teams collaborate in real projects.
+
+---
+
+## License
+
+MIT License
 
